@@ -1,6 +1,6 @@
 ### Hello and welcome to my GitHub profile 👋
 
-I'm a career-changing junior software engineer with a passion for creating elegant and efficient web applications. I specialize in using modern front-end frameworks such as ReactJS and NextJS, as well as back-end technologies like NodeJS, MongoDB, and Mongoose to build robust and scalable applications.
+I'm a career-changing Full stack engineer with a passion for creating elegant and efficient web applications. I specialize in using modern front-end frameworks such as ReactJS and NextJS, as well as back-end technologies like NodeJS, MongoDB, and Mongoose to build robust and scalable applications.
 
 In addition to my technical skills, I am also experienced in working with CSS, Bootstrap, TailwindCSS, and HTML to create beautiful and responsive user interfaces. I believe that a great user experience is a crucial aspect of any successful application, and I strive to create interfaces that are both visually appealing and easy to use.
 
